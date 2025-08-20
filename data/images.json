@@ -39,36 +39,36 @@
     "url": "https://raw.githubusercontent.com/RavaAchmad/db/main/image/9.jpg",
     "timestamp": "2025-08-20T08:05:44.371Z",
     "filename": "9.jpg",
-    "status": "pending"
+    "status": "confirmed"
   },
   {
     "url": "https://raw.githubusercontent.com/RavaAchmad/db/main/image/11.jpg",
     "timestamp": "2025-08-20T08:14:49.377Z",
     "filename": "11.jpg",
-    "status": "pending"
+    "status": "confirmed"
   },
   {
     "url": "https://raw.githubusercontent.com/RavaAchmad/db/main/image/12.jpg",
     "timestamp": "2025-08-20T08:32:22.947Z",
     "filename": "12.jpg",
-    "status": "pending"
+    "status": "confirmed"
   },
   {
     "url": "https://raw.githubusercontent.com/RavaAchmad/db/main/image/13.jpg",
     "timestamp": "2025-08-20T08:34:29.245Z",
     "filename": "13.jpg",
-    "status": "pending"
+    "status": "confirmed"
   },
   {
     "url": "https://raw.githubusercontent.com/RavaAchmad/db/main/image/14.jpg",
     "timestamp": "2025-08-20T08:52:18.310Z",
     "filename": "14.jpg",
-    "status": "pending"
+    "status": "confirmed"
   },
   {
     "url": "https://raw.githubusercontent.com/RavaAchmad/db/main/image/15.jpg",
     "timestamp": "2025-08-20T08:54:27.018Z",
     "filename": "15.jpg",
-    "status": "confirmed"
+    "status": "pending"
   }
 ]
