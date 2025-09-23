@@ -1,0 +1,38 @@
+[
+  {
+    "id": 1,
+    "title": "How to Choose the Right Weight",
+    "description": "Learn how to select the optimal gram weight for your 3D printed product based on use case and durability needs.",
+    "icon": "Scale",
+    "steps": [
+      "Consider the product's intended use",
+      "Check material strength requirements",
+      "Factor in cost vs. durability balance",
+      "Review our weight recommendations"
+    ]
+  },
+  {
+    "id": 2,
+    "title": "Color Selection Guide",
+    "description": "Understand how different colors affect your product's appearance and which colors work best for different applications.",
+    "icon": "Palette",
+    "steps": [
+      "View color samples in different lighting",
+      "Consider color durability over time",
+      "Match colors to your brand or decor",
+      "Check color availability in stock"
+    ]
+  },
+  {
+    "id": 3,
+    "title": "Custom Design Upload",
+    "description": "Step-by-step guide on how to upload and prepare your custom design files for 3D printing.",
+    "icon": "Upload",
+    "steps": [
+      "Prepare your design file (STL, OBJ)",
+      "Check file size and complexity",
+      "Upload through our secure system",
+      "Review and confirm your order"
+    ]
+  }
+]
