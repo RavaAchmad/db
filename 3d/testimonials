@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "name": "Sarah Johnson",
+    "rating": 5,
+    "comment": "Amazing quality! My custom phone case turned out exactly as I imagined. Fast delivery too!",
+    "image": "https://images.unsplash.com/photo-1494790108755-2616b612c70c?w=150&h=150&fit=crop&crop=face",
+    "product": "Custom Phone Case"
+  },
+  {
+    "id": 2,
+    "name": "Mike Chen",
+    "rating": 5,
+    "comment": "The desk organizer is perfect for my home office. Great material quality and perfect dimensions.",
+    "image": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=150&h=150&fit=crop&crop=face",
+    "product": "Desk Organizer"
+  },
+  {
+    "id": 3,
+    "name": "Emma Davis",
+    "rating": 4,
+    "comment": "Love my new plant pots! They look modern and sophisticated. Will definitely order more.",
+    "image": "https://images.unsplash.com/photo-1438761681033-6461ffad8d80?w=150&h=150&fit=crop&crop=face",
+    "product": "Plant Pot"
+  }
+]
