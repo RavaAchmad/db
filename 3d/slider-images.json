@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "image": "https://images.unsplash.com/photo-1565814329452-e1efa11c5b89?w=800&h=600&fit=crop",
+    "title": "Custom Accessories",
+    "description": "Personalized phone cases, keychains, and more"
+  },
+  {
+    "id": 2,
+    "image": "https://images.unsplash.com/photo-1586953208448-b95a79798f07?w=800&h=600&fit=crop",
+    "title": "Office Solutions",
+    "description": "Desk organizers and productivity tools"
+  },
+  {
+    "id": 3,
+    "image": "https://images.unsplash.com/photo-1485955900006-10f4d324d411?w=800&h=600&fit=crop",
+    "title": "Home & Garden",
+    "description": "Beautiful planters and home decor items"
+  },
+  {
+    "id": 4,
+    "image": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800&h=600&fit=crop",
+    "title": "Tech Accessories",
+    "description": "Cable management and tech organization"
+  }
+]
