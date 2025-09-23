@@ -1,0 +1,117 @@
+[
+  {
+    "id": 1,
+    "name": "Custom Phone Case",
+    "image": "https://images.unsplash.com/photo-1556656793-08538906a9f8?w=400&h=400&fit=crop",
+    "pricePerGram": 2.5,
+    "minGrams": 10,
+    "maxGrams": 50,
+    "colors": ["Black", "White", "Red", "Blue", "Green"],
+    "stock": {
+      "Black": 100,
+      "White": 0,
+      "Red": 45,
+      "Blue": 23,
+      "Green": 67
+    },
+    "category": "Accessories",
+    "description": "Custom phone case designed to fit your device perfectly. Upload your design for personalization.",
+    "rating": 4.8,
+    "reviews": 124
+  },
+  {
+    "id": 2,
+    "name": "Desk Organizer",
+    "image": "https://images.unsplash.com/photo-1586953208448-b95a79798f07?w=400&h=400&fit=crop",
+    "pricePerGram": 1.8,
+    "minGrams": 50,
+    "maxGrams": 200,
+    "colors": ["Black", "White", "Gray", "Blue"],
+    "stock": {
+      "Black": 89,
+      "White": 34,
+      "Gray": 12,
+      "Blue": 56
+    },
+    "category": "Office",
+    "description": "Multi-compartment desk organizer to keep your workspace tidy and organized.",
+    "rating": 4.6,
+    "reviews": 89
+  },
+  {
+    "id": 3,
+    "name": "Plant Pot",
+    "image": "https://images.unsplash.com/photo-1485955900006-10f4d324d411?w=400&h=400&fit=crop",
+    "pricePerGram": 1.2,
+    "minGrams": 30,
+    "maxGrams": 150,
+    "colors": ["White", "Terracotta", "Green", "Blue", "Black"],
+    "stock": {
+      "White": 78,
+      "Terracotta": 45,
+      "Green": 23,
+      "Blue": 0,
+      "Black": 89
+    },
+    "category": "Home & Garden",
+    "description": "Modern geometric plant pot perfect for your favorite plants.",
+    "rating": 4.9,
+    "reviews": 203
+  },
+  {
+    "id": 4,
+    "name": "Cable Organizer",
+    "image": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=400&h=400&fit=crop",
+    "pricePerGram": 2.0,
+    "minGrams": 15,
+    "maxGrams": 80,
+    "colors": ["Black", "White", "Gray"],
+    "stock": {
+      "Black": 156,
+      "White": 90,
+      "Gray": 67
+    },
+    "category": "Tech",
+    "description": "Keep your cables organized and tangle-free with this sleek cable management solution.",
+    "rating": 4.7,
+    "reviews": 67
+  },
+  {
+    "id": 5,
+    "name": "Key Holder",
+    "image": "https://images.unsplash.com/photo-1558618047-3c8c76ca7d13?w=400&h=400&fit=crop",
+    "pricePerGram": 1.5,
+    "minGrams": 20,
+    "maxGrams": 60,
+    "colors": ["Black", "White", "Red", "Yellow"],
+    "stock": {
+      "Black": 45,
+      "White": 23,
+      "Red": 12,
+      "Yellow": 0
+    },
+    "category": "Accessories",
+    "description": "Wall-mounted key holder with modern design to keep your keys organized.",
+    "rating": 4.5,
+    "reviews": 45
+  },
+  {
+    "id": 6,
+    "name": "Bookend Set",
+    "image": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=400&h=400&fit=crop",
+    "pricePerGram": 3.0,
+    "minGrams": 80,
+    "maxGrams": 300,
+    "colors": ["Black", "White", "Wood", "Metal"],
+    "stock": {
+      "Black": 34,
+      "White": 28,
+      "Wood": 15,
+      "Metal": 41
+    },
+    "category": "Office",
+    "description": "Elegant bookend set to keep your books organized and displayed beautifully.",
+    "rating": 4.8,
+    "reviews": 156
+  }
+]
